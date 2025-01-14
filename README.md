@@ -1,2 +1,2 @@
 # openai
-This repository contains different apps made with openai
+This repository contains different apps related to openai
